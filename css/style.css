@@ -1,0 +1,24 @@
+@import
+ulr('https://fonts.googleapis.com/css?family=Spectral+SC');
+
+
+.main {
+	width: 100%;
+	max-width: 1024px;
+	margin: auto;
+	margin-top: -5px;
+	text-align: center;
+	padding: 1em;
+}
+
+body {
+	background-color: #0033cc;
+}
+
+h1 {
+	font-family: 'Spectral+SC', sans-serif;
+}
+
+h3 {
+	font-family: 'Spectral+SC', sans-serif;
+}
